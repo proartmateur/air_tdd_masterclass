@@ -9,7 +9,7 @@ function sum(int $a, int $b): int
     return $a + $b;
 }
 
-class ExampleTest extends TestCase
+class FuncionPura extends TestCase
 {
 
     public function test_pure_function(): void
